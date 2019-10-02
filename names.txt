@@ -1,6 +1,25 @@
 Carl Baron 2.0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Tapnish Wadhwa
+=======
+Carl Baron 3.0 Oct 2nd 2019
+>>>>>>> 1bb233b5c31e40ff2bc2dad4b1ced1fcb7655b0c
+=======
+<<<<<<< HEAD
+>>>>>>> 3bbe6b0f88d9ed265ce353e748e6ddc60291f573
 Annie Nuttall
 Wassup
 8======D
+<<<<<<< HEAD
 Devin Bell 3.0
 Michael Russo 1.0
+=======
+>>>>>>> 286e4e5b9ff52fe95f1d6d9cfee0d4fde33e970a
+=======
+Carl Baron 3.0 Oct 2nd 2019
+>>>>>>> 1bb233b5c31e40ff2bc2dad4b1ced1fcb7655b0c
+sdfadsf
+>>>>>>> d3c58e2e3d6f1ec7186a204da8630ac0082828b2
+>>>>>>> 3bbe6b0f88d9ed265ce353e748e6ddc60291f573
