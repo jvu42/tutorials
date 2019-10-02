@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 Carl Baron 2.0
-<<<<<<< HEAD
 Annie Nuttall
-=======
 Wassup
 8======D
->>>>>>> 286e4e5b9ff52fe95f1d6d9cfee0d4fde33e970a
-=======
-Carl Baron 3.0 Oct 2nd 2019
->>>>>>> 1bb233b5c31e40ff2bc2dad4b1ced1fcb7655b0c
-sdfadsf
+Devin Bell 3.0
+Michael Russo 1.0
