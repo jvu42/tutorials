@@ -24,3 +24,5 @@ sdfadsf
 >>>>>>> d3c58e2e3d6f1ec7186a204da8630ac0082828b2
 >>>>>>> 3bbe6b0f88d9ed265ce353e748e6ddc60291f573
 Kyle
+>>>>>>> 3bbe6b0f88d9ed265ce353e748e6ddc60291f573
+lower text
